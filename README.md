@@ -4,8 +4,8 @@
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/ToDo)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://devvlos.github.io/ToDo/)
-[![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](adhishgupta.rf.gd)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-13%20June%202021-yellow.svg)](https://github.com/Devvlos/ToDo/commit/master)
+[![Author](https://img.shields.io/badge/Author-Adhish%20Gupta-blue.svg)](https://adhishgupta.rf.gd/)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-25%20November%202023-yellow.svg)](https://github.com/Devvlos/ToDo/commit/master)
 
 
 <p align="center">
